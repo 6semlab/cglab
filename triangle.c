@@ -109,7 +109,7 @@ int main(int argc,char **argv)
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
 	
-	glutCreateWindow("Triangle- 1CR20CS089");
+	glutCreateWindow("Triangle");
 	glutInitWindowSize(500,500);
 	glutInitWindowPosition(0,0);
 	
