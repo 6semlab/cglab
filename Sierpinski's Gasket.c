@@ -74,7 +74,7 @@ int main(int argc,char **argv)
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE |GLUT_DEPTH);
 	glEnable(GL_DEPTH_TEST);
-	glutCreateWindow("Sierpinski'sGasket1CR20CS089");
+	glutCreateWindow("Sierpinski'sGasket");
 	glutInitWindowSize(1000,1000);
 	//glutInitWindowPosition(0,0);
 	init();
