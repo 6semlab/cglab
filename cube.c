@@ -87,7 +87,7 @@ int main(int argc,char **argv)
 	
 	glutInitWindowSize(500,500);
 	glutInitWindowPosition(0,0);
-	glutCreateWindow("Cube- 1CR20CS089");
+	glutCreateWindow("Cube");
 	init();
 	glutDisplayFunc(display);
 	
