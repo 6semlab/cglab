@@ -22,7 +22,6 @@ void curve(float cp[4][2]){
 	int i;
 	float t,x,y;
 	int n=3;
-	glPointSize(15.0);
 	glBegin(GL_LINE_STRIP);
 	for(t=0;t<=1;t+=0.1){
 		x=0,y=0;
